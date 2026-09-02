@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset images and labels
+train/images/
+train/labels/
+valid/images/
+valid/labels/
+test/images/
+test/labels/
+
+# Dataset cache files
+*.cache
+
+# Ultralytics temporary training files
+runs/detect/train/
+runs/detect/train-2/
+runs/detect/train-3/
+runs/detect/train-4/
+runs/detect/train-5/
+runs/detect/train-6/
+
+# Prediction outputs
+runs/detect/outputs/predictions/
+
+# YOLO pretrained model
+weights/yolo26n.pt

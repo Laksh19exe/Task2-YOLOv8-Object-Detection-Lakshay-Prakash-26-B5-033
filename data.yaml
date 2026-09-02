@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['cat', 'dog', 'person']
+
+roboflow:
+  workspace: lakshay-prakash
+  project: person-cat-dog-lcyu3
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lakshay-prakash/person-cat-dog-lcyu3/dataset/1
