@@ -13,7 +13,7 @@ Fine-tuning YOLOv8n for object detection using the Person-Cat-Dog dataset.
 - Epochs: 30
 - Image Size: 640x640
 - Batch Size: 16
-- GPU: NVIDIA GeForce RTX 5070 Ti
+- GPU: NVIDIA Tesla T4 (Google Colab)
 
 ## Test Results
 
